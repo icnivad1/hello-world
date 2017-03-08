@@ -1,1 +1,2 @@
-this is a test   using Git for source code control
+this is a test   using Git for source code control.
+changes by master
